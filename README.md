@@ -26,7 +26,6 @@ Entropía ponderada = `(3/6)·0 + (3/6)·0 = 0`
 
 SI Tiene_Auto = Sí  ENTONCES Compra_Seguro = Sí
 SI Tiene_Auto = No  ENTONCES Compra_Seguro = No
-```
 
 
 
